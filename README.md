@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azer-bouhaouel
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Web Design
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me : mrazerbouhawel19@gmail.com
 
